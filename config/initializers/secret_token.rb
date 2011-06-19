@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-QualityTool::Application.config.secret_token = 'e2d5cbb7be9d1744e5492f0e0046239d446174c02cc8841bdcb7c42046df443acb5063bf7891409ee5276ac7009428b76e598bf7dc236214ab5e4b75a26d857a'
+QualityTool::Application.config.secret_token = 'e2ef5ef36bb329a87724efbdc0fe9182f230e47b2cc8ebea494e53b5fc63e7a3eccb24f329b7334ffab9d9b76b418cda4ccdfc547d2a3a9b6f27fcabc1520518'
